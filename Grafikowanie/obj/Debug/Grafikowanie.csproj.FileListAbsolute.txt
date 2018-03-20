@@ -1,0 +1,284 @@
+C:\Users\User\Desktop\Grafikowanie\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\User\Desktop\Grafikowanie\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\User\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\User\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\User\Desktop\Grafikowanie\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.01.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.01.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.01.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Grafikowanie 05.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\User\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\User\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\User\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\User\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\User\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Grafikowanie 05.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 05.01.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 05.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\User\Desktop\Grafikowanie 18.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 27.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\User\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 28.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\User\Desktop\Grafikowanie 29.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\User\Desktop\Grafikowanie 31.01.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 02.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\User\Desktop\Grafikowanie 03.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.02.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.02.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 04.02.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\User\Desktop\Grafikowanie 05.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\User\Desktop\Grafikowanie 07.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form5.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 08.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form5.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form5.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 26.02.2017\Grafikowanie\obj\Debug\Grafikowanie.Form6.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form5.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form6.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\Warbus Dyspozytor\Desktop\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+D:\Grafikowanie 06.04.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+D:\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+D:\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+G:\Grafikowanie 06.04.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+G:\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+G:\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\bin\Debug\Grafikowanie.exe.config
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\bin\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\bin\Debug\Grafikowanie.pdb
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form1.resources
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form2.resources
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form3.resources
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form4.resources
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form5.resources
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Form6.resources
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.Properties.Resources.resources
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.exe
+C:\Users\User\Desktop\TEMP\Grafikowanie 06.04.2017\Grafikowanie\obj\Debug\Grafikowanie.pdb
